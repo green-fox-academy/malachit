@@ -23,7 +23,7 @@ public class Cheer {
   }
 
   public void cheerTwo () {
-    System.out.println("asdasd");
+    System.out.println("dasdasdas");
   }
 
 }
