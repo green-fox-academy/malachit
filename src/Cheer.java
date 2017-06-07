@@ -13,4 +13,8 @@ public class Cheer {
     System.out.println("java is fckn awesome");
   }
 
+  public void cheerTwo () {
+    System.out.println("asdasd");
+  }
+
 }
