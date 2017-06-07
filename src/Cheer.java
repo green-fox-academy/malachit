@@ -9,8 +9,8 @@ public class Cheer {
     this.cheerMessage = "Malachit";
   }
 
-  public void cheerMessage() {
-    System.out.println(this.cheerMessage);
+  public void cheerMessage(String cheer) {
+    System.out.println(cheer);
   }
 
 }
