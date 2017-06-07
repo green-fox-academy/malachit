@@ -9,6 +9,6 @@ public class ShowAge {
   }
 
   public void count() {
-    System.out.println(7);
+    System.out.println(1111);
   }
 }
