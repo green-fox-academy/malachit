@@ -10,7 +10,7 @@ public class Cheer {
   }
 
   public void cheerMessage() {
-    System.out.println("java");
+    System.out.println("java is fckn awesome");
   }
 
 }
