@@ -1,6 +1,6 @@
 public class Greet {
 
   public void greet() {
-    System.out.println("GreeteenX!");
+    System.out.println("GreeteenX and kisses!");
   }
 }
